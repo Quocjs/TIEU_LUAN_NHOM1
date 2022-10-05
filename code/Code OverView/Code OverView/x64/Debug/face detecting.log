@@ -1,0 +1,3 @@
+﻿  GUI.cpp
+C:\Users\John Andrew\source\repos\NhanDienVienCamera\face detecting\GUI.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  face detecting.vcxproj -> C:\Users\John Andrew\source\repos\NhanDienVienCamera\x64\Debug\face detecting.exe
